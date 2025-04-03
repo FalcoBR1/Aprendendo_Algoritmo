@@ -1,1 +1,1 @@
-## Aqui vai ser onde estou aprendendo java e sobre algoritmos
+## Aqui vai ser meus estudos da faculdade estou aprendendo java e sobre algoritmos
