@@ -1,4 +1,4 @@
-public class ComoFazerumCafe{
+public class ComoFazerUmCafe{
     public static void main(String[] args){
         System.out.println("Como Fazer um Café");
         System.out.println("oque tem na pia da cozinha:");
