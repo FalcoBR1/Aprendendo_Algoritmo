@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AreadeUmCirculo {
+public class AreaDeUmCirculo {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         double pi = 3.14;
