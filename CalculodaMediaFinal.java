@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculodaMediaFinal {
+public class CalculoDaMediaFinal {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int AC1 = 0; int AC2 = 0; int AG = 0; int AF = 0;
